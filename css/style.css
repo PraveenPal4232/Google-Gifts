@@ -82,6 +82,9 @@ footer{
     margin: 5em auto;
     text-align: center;
 }
+header a{
+    color:#000;
+}
 
 @media only screen and (max-width: 768px) {
     main{
@@ -94,3 +97,67 @@ footer{
         grid-template-columns: repeat(1,1fr);
     }
   }
+
+  /* github ribbon */
+.link-svg svg {
+    height: 1.5rem;
+    width: 1.5rem;
+    fill: #555;
+  }
+  
+  .link-svg svg:hover {
+      fill: #000;
+  }
+  
+  @media screen and (max-width: 30em) {
+      .link-svg svg {
+        height: 1rem;
+        width: 1rem;
+      }
+  }
+  
+  @media screen and (min-width: 30em) and (max-width: 60em) {
+      .link-svg svg {
+        height: 1.25rem;
+        width: 1.25rem;
+      }
+  }
+  
+  .github-corner {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    height: 5rem;
+    width: 5rem;
+    fill: #000;
+  }
+  
+  .github-corner:hover .octo-arm {
+      animation: octocat-wave 560ms ease-in-out;
+  }
+  
+  @keyframes octocat-wave {
+    0%, 100% {
+      transform: rotate(0);
+      }
+    20%,
+      60% {
+      transform: rotate(-25deg);
+      }
+    40%,
+      80% {
+      transform: rotate(10deg);
+      }
+  }
+  
+  @media (max-width: 500px) {
+      .github-corner:hover .octo-arm {
+          animation: none;
+      }
+      .github-corner .octo-arm {
+      animation: octocat-wave 560ms ease-in-out;
+      }
+  }
+  
+  /* github ribbon */
+  
