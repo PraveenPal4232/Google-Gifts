@@ -21,5 +21,6 @@ If updating an opinion or recommendation in the book, please help us by providin
 
 ## License
 
-Except as otherwise noted, the content of this book is licensed under the  Creative Commons [Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0)](https://creativecommons.org/licenses/by-nc-nd/2.0/) license.
+Except as otherwise noted, the content of this book is licensed under the  Creative Commons [Creative Commons Attribution 4.0 International License.
+](http://creativecommons.org/licenses/by/4.0/) license.
 
