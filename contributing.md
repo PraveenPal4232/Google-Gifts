@@ -11,7 +11,7 @@ I'd love your help improving this repo. If interested in contributing a pull req
 1. Make sure your PR has a valid title and description. 
 2. Your PR updates only touch the parts of the repo it needs to. In most cases this will be `contributing.md`.
 
-If updating an opinion or recommendation in the book, please help us by providing data to back the change. This helps equip us with tools to make the best call on such updates.
+If updating an opinion or recommendation in the repo, please help us by providing data to back the change. This helps equip us with tools to make the best call on such updates.
 
 ## Table of contents
 
