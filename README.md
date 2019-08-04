@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://images.guide/">
-    <img src='/app/images/logo-banner.jpg' alt="Essential Image Optimization"/>
+  <a href="https://praveenpal4232.github.io/Google-Gifts/">
+    <img src='img/Google-Gifts-Banner.jpg' alt="Google-Gifts"/>
   </a>
 </p>
 
