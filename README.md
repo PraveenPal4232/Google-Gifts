@@ -10,7 +10,7 @@
 
 
 
-#### Contributing
+## Contributing
 
 I'd love your help improving this repo. If interested in contributing a pull request, please:
 
@@ -21,6 +21,6 @@ If updating an opinion or recommendation in the book, please help us by providin
 
 ## License
 
-Except as otherwise noted, the content of this book is licensed under the  Creative Commons [Creative Commons Attribution 4.0 International License.
+Except as otherwise noted, the content of this repo is licensed under the  Creative Commons [Creative Commons Attribution 4.0 International License.
 ](http://creativecommons.org/licenses/by/4.0/) license.
 
