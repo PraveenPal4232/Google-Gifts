@@ -13,8 +13,16 @@ I'd love your help improving this repo. If interested in contributing a pull req
 
 If updating an opinion or recommendation in the book, please help us by providing data to back the change. This helps equip us with tools to make the best call on such updates.
 
-## License
+## Table of contents
 
-Except as otherwise noted, the content of this repo is licensed under the  Creative Commons [Creative Commons Attribution 4.0 International License.
-](http://creativecommons.org/licenses/by/4.0/) license.
-
+- [Quick start](#quick-start)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Versioning](#versioning)
+- [Creators](#creators)
+- [Thanks](#thanks)
+- [Copyright and license](#copyright-and-license)
