@@ -42,5 +42,9 @@ If updating an opinion or recommendation in the book, please help us by providin
 - [Google User Experience Research](https://userresearch.google.com/)
 - [Experiments with Google](https://experiments.withgoogle.com/)
 - [Google API](https://developers.google.com/apis-explorer/)
+- [Next Yours](#)
 
-- [Google open source](https://opensource.google.com/)
+## License
+
+Except as otherwise noted, the content of this repo is licensed under the  Creative Commons [Creative Commons Attribution 4.0 International License.
+](http://creativecommons.org/licenses/by/4.0/) license.
