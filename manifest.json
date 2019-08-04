@@ -4,8 +4,8 @@
 	"background_color": "#FFFFFF",
 	"display": "standalone",
 	"orientation": "portrait",
-	"start_url": "/",
-  "scope": "/",
+	"start_url": "/Google-Gifts/",
+  "scope": "/Google-Gifts/",
   "theme_color": "#000000",
 	"icons": [
 		{
