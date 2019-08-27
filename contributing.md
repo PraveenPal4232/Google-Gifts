@@ -42,7 +42,7 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google User Experience Research](https://userresearch.google.com/)
 - [Experiments with Google](https://experiments.withgoogle.com/)
 - [Google API](https://developers.google.com/apis-explorer/)
-- [HTML5 Rocks](https://www.html5rocks.com/en/)
+- [Web.dev](https://web.dev/)
 - [Google Arts and Culture](https://artsandculture.google.com/)
 - [Google Careers](https://careers.google.com/)
 - [Next Yours](#)
