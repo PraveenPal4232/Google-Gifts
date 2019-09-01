@@ -46,7 +46,7 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google Arts and Culture](https://artsandculture.google.com/)
 - [Google Careers](https://careers.google.com/)
 - [Google Sites](https://sites.google.com/)
-- [Google About Me](https://aboutme.google.com/)
+- [Google Product Experts](https://productexperts.withgoogle.com/)
 - [Google Alerts](https://www.google.co.in/alerts)
 - [Next Yours](#)
 
