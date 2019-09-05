@@ -48,6 +48,9 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google Sites](https://sites.google.com/)
 - [Google Product Experts](https://productexperts.withgoogle.com/)
 - [Google Alerts](https://www.google.co.in/alerts/)
+- [Google Data Studio](https://datastudio.google.com/)
+- [Google Web Platform](https://webplatform.github.io/)
+- [Google Marketing Platform](https://marketingplatform.google.com/)
 - [Next Yours](#)
 
 ## License
