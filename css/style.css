@@ -97,7 +97,7 @@ main {
 
 header,
 footer {
-    margin: 5em auto;
+    padding: 5em 1em;
     text-align: center;
 }
 
