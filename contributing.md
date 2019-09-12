@@ -54,6 +54,9 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google Code-in](https://codein.withgoogle.com/)
 - [Google Accessibility](https://www.google.com/accessibility/)
 - [Google Analytics](https://analytics.google.com/analytics/web/)
+- [Google AR / VR](https://arvr.google.com/)
+- [Google Stadia](https://stadia.dev/)
+- [Google Waze](https://developers.google.com/waze/)
 - [Next Yours](#)
 
 ## License
