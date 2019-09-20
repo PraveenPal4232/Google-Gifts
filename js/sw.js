@@ -3,8 +3,8 @@ self.addEventListener('install', function(event) {
     var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
   '/Google-Gifts/',
-  '/css/main.css',
-  '/js/main.js'
+  '/Google-Gifts/css/main.css',
+  '/Google-Gifts/js/main.js'
 ];
 
 self.addEventListener('install', function(event) {
