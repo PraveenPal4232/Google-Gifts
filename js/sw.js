@@ -10,7 +10,7 @@ self.addEventListener('install', function(event) {
   var urlsToPrefetch = [
     '/',
     '/Google-Gifts/css/style.css',
-    '/Google-Gifts/js/script.js',
+    '/Google-Gifts/js/main.js',
   ];
 
   // All of these logging statements should be visible via the "Inspect" interface
