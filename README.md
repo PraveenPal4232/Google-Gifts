@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://praveenpal4232.github.io/Google-Gifts/">
-    <img src='img/Google-Gifts-Banner.jpg' alt="Google-Gifts"/>
+    <img src='img/Google-Gifts-Banner.webp' alt="Google-Gifts"/>
   </a>
 </p>
 
