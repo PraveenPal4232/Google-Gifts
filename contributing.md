@@ -59,7 +59,7 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google Waze](https://developers.google.com/waze/)
 - [Season of Docs](https://developers.google.com/season-of-docs/)
 - [Build your future](https://buildyourfuture.withgoogle.com/)
-- [Google Waze](https://developers.google.com/waze/)
+- [Google's Coding Competitions](https://developers.google.com/waze/)
 - [Next Yours](#)
 
 ## License
