@@ -60,6 +60,9 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Season of Docs](https://developers.google.com/season-of-docs/)
 - [Build your future](https://buildyourfuture.withgoogle.com/)
 - [Google's Coding Competitions](https://codingcompetitions.withgoogle.com/)
+- [Google for Nonprofits](https://www.google.com/nonprofits/)
+- [Google Research](https://research.google/)
+- [Google Sustainability](https://sustainability.google/)
 - [Next Yours](#)
 
 ## License
