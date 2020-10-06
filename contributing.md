@@ -63,6 +63,8 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google for Nonprofits](https://www.google.com/nonprofits/)
 - [Google Research](https://research.google/)
 - [Google Sustainability](https://sustainability.google/)
+- [Google Doodles](https://www.google.com/doodles)
+- [Google Translate](https://translate.google.com/)
 - [Next Yours](#)
 
 ## License
