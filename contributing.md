@@ -63,6 +63,9 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google for Nonprofits](https://www.google.com/nonprofits/)
 - [Google Research](https://research.google/)
 - [Google Sustainability](https://sustainability.google/)
+- [AMP](https://amp.dev/)
+- [Firebase](https://firebase.google.com/)
+- [Flutter](https://flutter.dev/)
 - [Next Yours](#)
 
 ## License
