@@ -66,6 +66,8 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [AMP](https://amp.dev/)
 - [Firebase](https://firebase.google.com/)
 - [Flutter](https://flutter.dev/)
+- [Google Doodles](https://www.google.com/doodles)
+- [Google Translate](https://translate.google.com/)
 - [Next Yours](#)
 
 ## License
