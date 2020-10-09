@@ -62,7 +62,10 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google's Coding Competitions](https://codingcompetitions.withgoogle.com/)
 - [Google for Nonprofits](https://www.google.com/nonprofits/)
 - [Google Research](https://research.google/)
-- [Google Sustainability](https://sustainability.google/)
+- [Google Sustainability](https://sustainability.google/) 
+- [Google Trips](https://www.google.com/travel/)
+- [Google News](https://news.google.com/)
+- [Google Calendar](https://www.google.com/calendar/)
 - [Next Yours](#)
 
 ## License
