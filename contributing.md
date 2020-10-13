@@ -68,6 +68,9 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Flutter](https://flutter.dev/)
 - [Google Doodles](https://www.google.com/doodles)
 - [Google Translate](https://translate.google.com/)
+- [Google Trips](https://www.google.com/travel/)
+- [Google News](https://news.google.com/)
+- [Google Calendar](https://www.google.com/calendar/)
 - [Next Yours](#)
 
 ## License
