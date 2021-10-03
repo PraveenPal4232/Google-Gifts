@@ -71,6 +71,12 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google Trips](https://www.google.com/travel/)
 - [Google News](https://news.google.com/)
 - [Google Calendar](https://www.google.com/calendar/)
+- [Google Tables](https://tables.area120.google.com/)
+- [Google Chat](https://mail.google.com/chat/)
+- [Google Meet](https://meet.google.com/)
+- [Google Docs Editors](https://www.google.com/docs/about/)
+- [Google Drive](https://drive.google.com/)
+- [Google Keep](https://www.google.com/keep/)
 - [Next Yours](#)
 
 ## License
