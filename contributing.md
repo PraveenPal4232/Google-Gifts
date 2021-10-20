@@ -76,6 +76,7 @@ If updating an opinion or recommendation in the repo, please help us by providin
 - [Google Docs Editors](https://www.google.com/docs/about/)
 - [Google Drive](https://drive.google.com/)
 - [Google Keep](https://www.google.com/keep/)
+- [Google The Keyword](https://blog.google/)
 - [Next Yours](#)
 
 ## License
